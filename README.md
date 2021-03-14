@@ -1,2 +1,2 @@
 # my-website
-my-website-1-branch
+my-website-1-branch-latest
