@@ -1,4 +1,4 @@
 # my-website
 my-website-1-branch-latest
 
-Updated locally
+Updated locally to check out
